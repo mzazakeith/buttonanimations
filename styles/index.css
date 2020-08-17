@@ -22,6 +22,7 @@ body{
     border-top-right-radius: 5px;
     border-bottom-left-radius: 5px;
     transition: all 0.8s;
+    font-family: 'Alata', sans-serif;
 }
 .cbtn1:after, .cbtn1:before {
     content: " ";
@@ -67,6 +68,7 @@ body{
     -webkit-transition: all 0.4s;
       -moz-transition: all 0.4s;
       transition: all 0.4s;
+    font-family: 'Alata', sans-serif;  
 }
 
 .cbtn2:hover{
@@ -93,6 +95,7 @@ body{
     -webkit-transition: all 0.4s;
       -moz-transition: all 0.4s;
       transition: all 0.4s;
+    font-family: 'Alata', sans-serif;
 }
 
 .cbtn3:hover{
@@ -125,12 +128,13 @@ body{
     border-radius: 160px;
     color: black;
     text-transform: uppercase;
-    font-size: 16px;
+    font-size: 20px;
     letter-spacing: 2.5px;
     transition: all 0.5s;
     position: relative;
     overflow: hidden;
     z-index: 1;
+    font-family: 'Alata', sans-serif;
 }
 
 .cbtn4::after{
