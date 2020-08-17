@@ -115,3 +115,17 @@ body{
 .cbtn3:hover::after{
     height:100%;
 }
+
+.cbtn4{
+    display: inline-block;
+    padding: 25px 80px;
+    border-radius: 160px;
+    color: black;
+    text-transform: uppercase;
+    font-size: 16px;
+    letter-spacing: 2.5px;
+    transition: all 0.5s;
+    position: relative;
+    overflow: hidden;
+    z-index: 1;
+}
