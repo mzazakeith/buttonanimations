@@ -15,7 +15,8 @@ body{
     position: relative;
     padding: 25px 80px;
     background:transparent;
-    font-size: 28px;
+    font-size: 20px;
+    letter-spacing: 2px;
     color: white;
     border:white;
     border-top-right-radius: 5px;
