@@ -48,5 +48,27 @@ body{
     height: 100%;
 }
 
+.cbtn2{
+    background: transparent;
+    color: white;
+    border: 2px solid white;
+    font-size: 20px;
+    letter-spacing: 2px;
+    padding: 25px 80px;
+    cursor: pointer;
+    display: inline-block;
+    margin: 15px 30px;
+    -webkit-transition: all 0.4s;
+      -moz-transition: all 0.4s;
+      transition: all 0.4s;
+}
+
+.cbtn2:hover{
+    background-color: white;
+    color: black;
+    -webkit-transition: all 0.4s;
+      -moz-transition: all 0.4s;
+      transition: all 0.4s;
+}
 
 
